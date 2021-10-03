@@ -1,6 +1,8 @@
 # Hi there 👋
 I'm Ed - a student and passionate hobbyist developer.
 
+![Python](https://raw.githubusercontent.com/supremeicecreme/supremeicecreme/main/python.webp) ![C# .Net](https://raw.githubusercontent.com/supremeicecreme/supremeicecreme/main/csharp.webp)
+
 ## 🔭 I’m currently working on...
 - My personal website!  A custom designed WordPress theme by me, compatible with the new Gutenberg blocks editor.
 
