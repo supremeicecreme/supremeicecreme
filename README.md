@@ -5,6 +5,7 @@ I'm Ed - a student and passionate hobbyist developer.
 
 ## 🔭 I’m currently working on...
 - My personal website!  A custom designed WordPress theme by me, compatible with the new Gutenberg blocks editor.
+- VerifyService: A system to verify users on Discord against a Microsoft 365 tenant for security and accountability.
 
 ## 🌱 I’m currently learning...
 More and more about PHP (due to working on my WordPress theme) and other web technologies.
