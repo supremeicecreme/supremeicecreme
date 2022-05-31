@@ -9,11 +9,11 @@ I'm Ed - a student and passionate hobbyist developer.
 ## 🌱 I’m currently learning...
 More and more about PHP (due to working on my WordPress theme) and other web technologies.
 
-## 📫 How to reach me:
+## 📫 How to reach me
 My preferred method is via email on [edward@icecore.me](mailto:edward@icecore.me), 
 though you can [follow my Twitter](https://twitter.com/supremeicecreme) if you fancy.
 
-## 😄 Pronouns:
+## 😄 Pronouns
 they/them
 
 <!--
