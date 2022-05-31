@@ -14,7 +14,7 @@ My preferred method is via email on [edward@icecore.me](mailto:edward@icecore.me
 though you can [follow my Twitter](https://twitter.com/supremeicecreme) if you fancy.
 
 ## 😄 Pronouns:
-He/him
+they/them
 
 <!--
 - 👯 I’m looking to collaborate on ...
