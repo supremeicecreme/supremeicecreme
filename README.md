@@ -11,7 +11,7 @@ I'm Ed - a student and passionate hobbyist developer.
 More and more about PHP (due to working on my WordPress theme) and other web technologies.
 
 ## 📫 How to reach me
-My preferred method is via email on [edward@icecore.me](mailto:edward@icecore.me), 
+My preferred method is via email on [ed@echodelta.me](mailto:ed@echodelta.me), 
 though you can [follow my Twitter](https://twitter.com/supremeicecreme) if you fancy.
 
 ## 😄 Pronouns
