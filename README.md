@@ -1,18 +1,18 @@
 # Hi there 👋
 I'm Ed - a student and passionate hobbyist developer.
 
-![Python](https://raw.githubusercontent.com/supremeicecreme/supremeicecreme/main/python.webp) ![C# .Net](https://raw.githubusercontent.com/supremeicecreme/supremeicecreme/main/csharp.webp)
+![Node.JS](https://raw.githubusercontent.com/supremeicecreme/supremeicecreme/main/nodejs.webp) ![C# .Net](https://raw.githubusercontent.com/supremeicecreme/supremeicecreme/main/csharp.webp) ![Python](https://raw.githubusercontent.com/supremeicecreme/supremeicecreme/main/python.webp) 
 
 ## 🔭 I’m currently working on...
-- My personal website!  A custom designed WordPress theme by me, compatible with the new Gutenberg blocks editor.
 - VerifyService: A system to verify users on Discord against a Microsoft 365 tenant for security and accountability.
+- Streaming radio website platform using Next.JS.
+- Custom website hub for a media organisation I'm involved with which pulls in news articles by us through RSS.
 
 ## 🌱 I’m currently learning...
-More and more about PHP (due to working on my WordPress theme) and other web technologies.
+More Node.JS, specifically Express and Next. I've been working on a couple of projects using these technologies!
 
 ## 📫 How to reach me
-My preferred method is via email on [ed@echodelta.me](mailto:ed@echodelta.me), 
-though you can [follow my Twitter](https://twitter.com/supremeicecreme) if you fancy.
+Drop me a [follow on X (it's twitter)](https://twitter.com/supremeicecreme) if you fancy.
 
 ## 😄 Pronouns
 they/them
