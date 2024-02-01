@@ -12,7 +12,7 @@ I'm Ed - a student and passionate hobbyist developer.
 More Node.JS, specifically Express and Next. I've been working on a couple of projects using these technologies!
 
 ## 📫 How to reach me
-Drop me a [follow on X (it's twitter)](https://twitter.com/supremeicecreme) if you fancy.
+Drop me a [follow on X (it's twitter)](https://twitter.com/iamechodelta) if you fancy.
 
 ## 😄 Pronouns
 they/them
